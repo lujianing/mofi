@@ -22,3 +22,5 @@ MO mobile office，移动办公
 1.web的多线程 
 2.单例模式的灵活运用
 3.框架以及管理工具等新技术的运用
+
+ps：由于也是第一次使用springMVC  代码规范性也有问题  比如controller层 代码没有好好分类
